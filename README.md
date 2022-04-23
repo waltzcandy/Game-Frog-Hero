@@ -1,2 +1,2 @@
 # Game-Frog-Hero
-Final Project Mata Kuliah Pemrograman 2
+<b>Final Project Mata Kuliah Pemrograman 2</b>
